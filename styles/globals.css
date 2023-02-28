@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Raleway', sans-serif;
+}
+
+.custom-img {
+  background-image: url('https://img.freepik.com/free-vector/background-pastel-water-color-modern-abstract_487879-975.jpg?w=1060&t=st=1677115550~exp=1677116150~hmac=fb6aa438c801968f0f770446dcd427b4cb3fcd5b4705a2f5d5f56dbafdd3f0fa')
+}
